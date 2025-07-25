@@ -35,22 +35,22 @@
       {
         "label": "Aura Dark (Soft Text)",
         "uiTheme": "vs-dark",
-        "path": "./themes/aura-dark-soft-text-color-theme.json"
+        "path": "./aura-dark-soft-text-color-theme.json"
       },
       {
         "label": "Aura Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/aura-dark-color-theme.json"
+        "path": "./aura-dark-color-theme.json"
       },
       {
         "label": "Aura Soft Dark (Soft Text)",
         "uiTheme": "vs-dark",
-        "path": "./themes/aura-soft-dark-soft-text-color-theme.json"
+        "path": "./aura-soft-dark-soft-text-color-theme.json"
       },
       {
         "label": "Aura Soft Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/aura-soft-dark-color-theme.json"
+        "path": "./aura-soft-dark-color-theme.json"
       }
     ]
   },
